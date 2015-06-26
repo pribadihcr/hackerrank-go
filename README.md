@@ -1,1 +1,1 @@
-# hackerrank-go
+# https://www.hackerrank.com/pribadi_hcr
